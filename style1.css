@@ -1,0 +1,16 @@
+#back
+{
+    width: 100px;
+    height: 30px;
+    float: right;
+    margin: 15px;
+    margin-top: -60px;
+}
+body{
+    background-color:paleturquoise ;
+}
+#frame
+{
+    height: 95%;
+    width: 60%;
+}
