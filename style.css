@@ -5,30 +5,28 @@ body
 }
 h1{
     font-size: 80px;
-    color: rgb(249, 251, 252);
+    color: rgb(253, 251, 255);
     margin-top: 150px;
 }
 #play{
-    margin-top: 60px;
-    margin-right: 100px;
+    margin-top: 30px;
     font-size: 20px;
 }
 #study{
-    margin-top: 60px;
+    margin-top: 30px;
    
     font-size: 20px;
 }
 #story{
-    margin-top: 60px;
-    margin-right:100px;
+    margin-top: 30px;
     font-size: 20px;
 }
 #rhyme{
-    margin-top: 60px;
+    margin-top: 30px;
    
     font-size: 20px;
 }
 button{
-    width: 150px;
-    height: 100px;
+    width: 250px;
+    height: 50px;
 }
